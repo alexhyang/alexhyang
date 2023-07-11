@@ -1,6 +1,12 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 # Visit https://metrics.lecoq.io/embed?user= to generate action code
 # Visit https://github.com/lowlighter/metrics/blob/latest/README.md#-plugins for plugin index
+
+# Set up GitHub Actions:
+# https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
+# Update token here: https://github.com/settings/tokens/new
+# scope: (scopeless)
+
 name: Metrics
 on:
   # Schedule updates (every day)
