@@ -333,7 +333,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 169kb of code in 729 edited files across 270 commits over last 26 days</small>
+                <small>estimation from 169kb of code in 729 edited files across 270 commits over last 27 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -460,7 +460,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jul 2023, 23:17:19 (timezone US/Pacific) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 Jul 2023, 11:16:27 (timezone US/Pacific) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
