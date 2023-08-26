@@ -44,7 +44,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 10%
+          plugin_habits_languages_threshold: 5%
           plugin_languages: yes
           plugin_languages_aliases: JSX:JavaScript TSX:TypeScript
           plugin_languages_analysis_timeout: 15
