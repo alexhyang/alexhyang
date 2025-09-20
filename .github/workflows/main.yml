@@ -60,5 +60,5 @@ jobs:
           plugin_languages_threshold: 5%
           plugin_wakatime: yes
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, languages, editors, os
+          plugin_wakatime_sections: time, languages, editors, os, languages-graphs
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
