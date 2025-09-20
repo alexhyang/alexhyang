@@ -38,11 +38,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: US/Pacific
-          # plugin_habits: yes
-          plugin_habits: no
+          plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
-          plugin_habits_facts: yes
+          # plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 5%
@@ -57,7 +56,7 @@ jobs:
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 28
           plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_threshold: 5%
           plugin_wakatime: yes
           plugin_wakatime_limit: 5
